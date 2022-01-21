@@ -1,0 +1,36 @@
+html{
+    background-color: antiquewhite;
+}
+
+.caixa{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo-caixa{
+    width: 300px;
+    height: 250px;
+    background: #fff;
+    border: solid 1px blueviolet;
+
+}
+
+.titulo{
+    text-align: center;
+}
+
+.preco{
+    font-weight: bold;
+}
+
+.valor-total{
+    margin-left: 25px;
+}
+
+.footer{
+    margin-left: 80px;
+}
